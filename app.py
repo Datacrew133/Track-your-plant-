@@ -1,4 +1,4 @@
-# Programer: Mohamed Salah
+# Programmer: Mohamed Salah
 # desc: importing the functions done by my fellow teamates, and convert wtv needed to be converted to st form.
 
 import streamlit as st
